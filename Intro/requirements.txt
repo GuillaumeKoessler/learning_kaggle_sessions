@@ -1,0 +1,3 @@
+jupyter==1.0.0
+pandas==1.5.2
+C:\Users\Admin\Documents\08_Programmation\01_Python\01_pakages\learntools-master
