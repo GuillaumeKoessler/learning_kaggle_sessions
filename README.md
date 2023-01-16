@@ -1,6 +1,8 @@
 # learning_kaggle_sessions
 This project only contains notebooks and requirements in order to learn or remember python stuff
 
+You can find the exercice here : https://www.kaggle.com/learn
+
 # Installation : 
 
 All the packages a listed in the *requirements.txt* folder
