@@ -5,7 +5,7 @@ You can find the exercice here : https://www.kaggle.com/learn
 
 # Installation : 
 
-All the packages a listed in the *requirements.txt* folder
+All the packages are listed in the *requirements.txt* folder
 
 You will need to install manually the package names "learntools" from kaggle in order to exercices in your local machine.
 
